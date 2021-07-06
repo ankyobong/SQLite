@@ -24,6 +24,7 @@ ARGOS LABS plugin module for sqlite
 
 
 ################################################################################
+import os
 import sys
 import sqlite3
 from alabs.common.util.vvargs import ModuleContext, func_log, \
